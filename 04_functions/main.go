@@ -13,7 +13,7 @@ func getSum(num1, num2 int) int {
 }
 
 func main() {
-	fmt.Println("Hello World")
+
 	fmt.Println(greeting("Jaime"))
 
 	fmt.Println(getSum(3, 4))
