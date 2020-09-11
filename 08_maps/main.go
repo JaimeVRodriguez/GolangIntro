@@ -24,7 +24,6 @@ func main() {
 	//****************************************
 
 	// Declare and assign
-
 	employeeID := map[string]string{"1": "Bob", "2": "Kyle"}
 
 	fmt.Println(employeeID)
